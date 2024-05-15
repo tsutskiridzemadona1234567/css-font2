@@ -1,14 +1,14 @@
 @font-face{
   font-family: "chemi font1";  
-  src: url("fonts/JacquesFrancoisShadow-Regular.ttf");
+  src: url("./JacquesFrancoisShadow-Regular.ttf");
 }
 @font-face{
     font-family: "chemi font2";  
-    src: url("fonts/Play-Regular.ttf");
+    src: url("./Play-Regular.ttf");
   }
 @font-face{
     font-family: "chemi font3";  
-    src: url("fonts/OriginalSurfer-Regular.ttf");
+    src: url("./OriginalSurfer-Regular.ttf");
   }
 .p1{
     font-family: "chemi font3";
